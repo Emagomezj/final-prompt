@@ -1,5 +1,3 @@
 openai
 streamlit
-request
-streamlit
 python-dotenv
