@@ -79,7 +79,7 @@ def main ():
             st.download_button(
                 label="Descargar",
                 data= respuesta,
-                file_name=f"cronoscopio - {evento}.txtgit ",
+                file_name=f"cronoscopio - {evento}.txt ",
                 mime="text/markdown"
             )
         else:
